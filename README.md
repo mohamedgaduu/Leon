@@ -1,2 +1,2 @@
-# Leon-Template
+# Leon
 web-front
